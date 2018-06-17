@@ -75,7 +75,7 @@ var TabsLayout3 = (function () {
     ], TabsLayout3.prototype, "tabRef", void 0);
     TabsLayout3 = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
-            selector: 'tabs-layout-3',template:/*ion-inline-start:"/Users/xoxo/Downloads/codecanyon/src/components/tabs/layout-3/tabs.html"*/'<!-- Theme Tabs Header tab - text -->\n\n<ion-tabs #tabs tabsPlacement=\'top\' tabs-content>\n\n  <ion-item header transparent no-lines>\n\n      <h2 ion-title margin-top>{{data.title}}</h2>\n\n      <h1 ion-title text-wrap header-title no-margin>{{data.description}}</h1>\n\n  </ion-item>\n\n    <ion-tab [tabTitle]="item.title" [root]="item.page" *ngFor="let item of data.data;let i = index">\n\n    </ion-tab>\n\n</ion-tabs>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/codecanyon/src/components/tabs/layout-3/tabs.html"*/
+            selector: 'tabs-layout-3',template:/*ion-inline-start:"/Users/xoxo/Downloads/prj666-g1/src/components/tabs/layout-3/tabs.html"*/'<!-- Theme Tabs Header tab - text -->\n\n<ion-tabs #tabs tabsPlacement=\'top\' tabs-content>\n\n  <ion-item header transparent no-lines>\n\n      <h2 ion-title margin-top>{{data.title}}</h2>\n\n      <h1 ion-title text-wrap header-title no-margin>{{data.description}}</h1>\n\n  </ion-item>\n\n    <ion-tab [tabTitle]="item.title" [root]="item.page" *ngFor="let item of data.data;let i = index">\n\n    </ion-tab>\n\n</ion-tabs>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/prj666-g1/src/components/tabs/layout-3/tabs.html"*/
         }),
         __metadata("design:paramtypes", [])
     ], TabsLayout3);

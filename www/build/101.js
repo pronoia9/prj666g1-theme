@@ -1,6 +1,6 @@
 webpackJsonp([101],{
 
-/***/ 564:
+/***/ 562:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -8,7 +8,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "DragAndDropLayout2Module", function() { return DragAndDropLayout2Module; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__drag_and_drop_layout_2__ = __webpack_require__(815);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__drag_and_drop_layout_2__ = __webpack_require__(813);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -42,7 +42,7 @@ var DragAndDropLayout2Module = (function () {
 
 /***/ }),
 
-/***/ 815:
+/***/ 813:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -86,7 +86,7 @@ var DragAndDropLayout2 = (function () {
     ], DragAndDropLayout2.prototype, "content", void 0);
     DragAndDropLayout2 = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
-            selector: 'drag-and-drop-layout-2',template:/*ion-inline-start:"/Users/xoxo/Downloads/codecanyon/src/components/list-view/drag-and-drop/layout-2/drag-and-drop.html"*/'<!-- Themes Drag and drop - Products + CTA header -->\n\n<ion-content>\n\n    <ion-grid no-padding *ngIf="data != null">\n\n        <ion-row>\n\n            <ion-col col-12>\n\n                <!-- Header Products + CTA header -->\n\n                <ion-list-header header-section no-margin padding-horizontal>\n\n                    <h1 header-title text-capitalize>{{data.header}}</h1>\n\n                    <ion-item no-lines>\n\n                        <h2 item-title text-capitalize margin-top text-wrap>{{data.title}}</h2>\n\n                        <h2 item-subtitle no-margin text-wrap>{{data.subtitle}}</h2>\n\n                        <button item-end ion-button button-clear-outline outline round  (click)="onEvent(\'onButtonGetClick\', \'\', $event)">{{data.button}}</button>\n\n                    </ion-item>\n\n                </ion-list-header>\n\n                <!-- Content Products + CTA header -->\n\n                <ion-list no-margin reorder="true" (ionItemReorder)="reorderItems($event)">\n\n                    <ion-item border no-lines *ngFor="let item of data.items; let i = index;"\n\n                    (click)="onEvent(\'onItemClick\', item.title, $event)">\n\n                        <!-- Avatar -->\n\n                        <ion-avatar item-start>\n\n                            <img [src]="item.image">\n\n                        </ion-avatar>\n\n                        <!-- Title -->\n\n                        <h2 item-title text-wrap text-capitalize>{{item.title}}</h2>\n\n                        <!-- Subtitle -->\n\n                        <p item-subtitle>{{item.subtitle}}</p>\n\n                        <!-- Badge -->\n\n                        <div item-content>\n\n                            <ion-badge badge-light>{{item.price}}</ion-badge>\n\n                        </div>\n\n                    </ion-item>\n\n                </ion-list>\n\n            </ion-col>\n\n        </ion-row>\n\n    </ion-grid>\n\n</ion-content>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/codecanyon/src/components/list-view/drag-and-drop/layout-2/drag-and-drop.html"*/
+            selector: 'drag-and-drop-layout-2',template:/*ion-inline-start:"/Users/xoxo/Downloads/prj666-g1/src/components/list-view/drag-and-drop/layout-2/drag-and-drop.html"*/'<!-- Themes Drag and drop - Products + CTA header -->\n\n<ion-content>\n\n    <ion-grid no-padding *ngIf="data != null">\n\n        <ion-row>\n\n            <ion-col col-12>\n\n                <!-- Header Products + CTA header -->\n\n                <ion-list-header header-section no-margin padding-horizontal>\n\n                    <h1 header-title text-capitalize>{{data.header}}</h1>\n\n                    <ion-item no-lines>\n\n                        <h2 item-title text-capitalize margin-top text-wrap>{{data.title}}</h2>\n\n                        <h2 item-subtitle no-margin text-wrap>{{data.subtitle}}</h2>\n\n                        <button item-end ion-button button-clear-outline outline round  (click)="onEvent(\'onButtonGetClick\', \'\', $event)">{{data.button}}</button>\n\n                    </ion-item>\n\n                </ion-list-header>\n\n                <!-- Content Products + CTA header -->\n\n                <ion-list no-margin reorder="true" (ionItemReorder)="reorderItems($event)">\n\n                    <ion-item border no-lines *ngFor="let item of data.items; let i = index;"\n\n                    (click)="onEvent(\'onItemClick\', item.title, $event)">\n\n                        <!-- Avatar -->\n\n                        <ion-avatar item-start>\n\n                            <img [src]="item.image">\n\n                        </ion-avatar>\n\n                        <!-- Title -->\n\n                        <h2 item-title text-wrap text-capitalize>{{item.title}}</h2>\n\n                        <!-- Subtitle -->\n\n                        <p item-subtitle>{{item.subtitle}}</p>\n\n                        <!-- Badge -->\n\n                        <div item-content>\n\n                            <ion-badge badge-light>{{item.price}}</ion-badge>\n\n                        </div>\n\n                    </ion-item>\n\n                </ion-list>\n\n            </ion-col>\n\n        </ion-row>\n\n    </ion-grid>\n\n</ion-content>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/prj666-g1/src/components/list-view/drag-and-drop/layout-2/drag-and-drop.html"*/
         }),
         __metadata("design:paramtypes", [])
     ], DragAndDropLayout2);

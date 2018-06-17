@@ -1,6 +1,6 @@
 webpackJsonp([46],{
 
-/***/ 651:
+/***/ 652:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -8,7 +8,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "TabPage2Module", function() { return TabPage2Module; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__tab_page_2__ = __webpack_require__(904);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__tab_page_2__ = __webpack_require__(905);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -768,7 +768,7 @@ var TabsService = (function () {
 
 /***/ }),
 
-/***/ 904:
+/***/ 905:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -804,7 +804,7 @@ var TabPage2 = (function () {
         this.toastCtrl.presentToast("Folow");
     };
     TabPage2 = __decorate([
-        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"/Users/xoxo/Downloads/codecanyon/src/pages/tab-page-2/tab-page-2.html"*/'<!--- Settings TAB lauout-2 -->\n\n<ion-content>\n\n    <ion-list tabPage2 *ngIf="params != null">\n\n        <ion-item border no-lines *ngFor="let item of params.items; let i = index;" (click)="onItemClick(item)">\n\n            <ion-avatar item-start>\n\n                <img [src]="item.avatar" />\n\n            </ion-avatar>\n\n            <h2 item-title>{{item.title}}</h2>\n\n            <h3 item-subtitle text-wrap>{{item.subtitle}}</h3>\n\n            <ion-badge item-end class="badge-dark">{{item.follow}}</ion-badge>\n\n        </ion-item>\n\n    </ion-list>\n\n</ion-content>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/codecanyon/src/pages/tab-page-2/tab-page-2.html"*/,
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"/Users/xoxo/Downloads/prj666-g1/src/pages/tab-page-2/tab-page-2.html"*/'<!--- Settings TAB lauout-2 -->\n\n<ion-content>\n\n    <ion-list tabPage2 *ngIf="params != null">\n\n        <ion-item border no-lines *ngFor="let item of params.items; let i = index;" (click)="onItemClick(item)">\n\n            <ion-avatar item-start>\n\n                <img [src]="item.avatar" />\n\n            </ion-avatar>\n\n            <h2 item-title>{{item.title}}</h2>\n\n            <h3 item-subtitle text-wrap>{{item.subtitle}}</h3>\n\n            <ion-badge item-end class="badge-dark">{{item.follow}}</ion-badge>\n\n        </ion-item>\n\n    </ion-list>\n\n</ion-content>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/prj666-g1/src/pages/tab-page-2/tab-page-2.html"*/,
             providers: [__WEBPACK_IMPORTED_MODULE_2__services_tabs_service__["a" /* TabsService */], __WEBPACK_IMPORTED_MODULE_1__services_toast_service__["a" /* ToastService */]]
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_2__services_tabs_service__["a" /* TabsService */], __WEBPACK_IMPORTED_MODULE_1__services_toast_service__["a" /* ToastService */]])

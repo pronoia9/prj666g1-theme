@@ -1,6 +1,6 @@
 webpackJsonp([47],{
 
-/***/ 652:
+/***/ 651:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -8,7 +8,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "TabPage14Module", function() { return TabPage14Module; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__tab_page_14__ = __webpack_require__(905);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__tab_page_14__ = __webpack_require__(904);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -768,7 +768,7 @@ var TabsService = (function () {
 
 /***/ }),
 
-/***/ 905:
+/***/ 904:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -804,7 +804,7 @@ var TabPage14 = (function () {
         this.toastCtrl.presentToast("Get");
     };
     TabPage14 = __decorate([
-        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"/Users/xoxo/Downloads/codecanyon/src/pages/tab-page-14/tab-page-14.html"*/'<!--- Settings TAB lauout-14 -->\n\n<ion-content>\n\n    <ion-list tabPage14 *ngIf="params != null">\n\n        <ion-item border no-lines *ngFor="let item of params.items; let i = index;" (click)="onItemClick(item)">\n\n            <ion-avatar item-start>\n\n                <img [src]="item.avatar" />\n\n            </ion-avatar>\n\n            <h2 item-title>{{item.title}}</h2>\n\n            <h3 item-subtitle text-wrap>{{item.subtitle}}</h3>\n\n            <ion-badge item-end text-uppercase badge-light>{{item.price}}</ion-badge>\n\n        </ion-item>\n\n    </ion-list>\n\n</ion-content>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/codecanyon/src/pages/tab-page-14/tab-page-14.html"*/,
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"/Users/xoxo/Downloads/prj666-g1/src/pages/tab-page-14/tab-page-14.html"*/'<!--- Settings TAB lauout-14 -->\n\n<ion-content>\n\n    <ion-list tabPage14 *ngIf="params != null">\n\n        <ion-item border no-lines *ngFor="let item of params.items; let i = index;" (click)="onItemClick(item)">\n\n            <ion-avatar item-start>\n\n                <img [src]="item.avatar" />\n\n            </ion-avatar>\n\n            <h2 item-title>{{item.title}}</h2>\n\n            <h3 item-subtitle text-wrap>{{item.subtitle}}</h3>\n\n            <ion-badge item-end text-uppercase badge-light>{{item.price}}</ion-badge>\n\n        </ion-item>\n\n    </ion-list>\n\n</ion-content>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/prj666-g1/src/pages/tab-page-14/tab-page-14.html"*/,
             providers: [__WEBPACK_IMPORTED_MODULE_2__services_tabs_service__["a" /* TabsService */]]
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_2__services_tabs_service__["a" /* TabsService */], __WEBPACK_IMPORTED_MODULE_1__services_toast_service__["a" /* ToastService */]])

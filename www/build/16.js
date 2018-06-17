@@ -207,7 +207,7 @@ var TabsLayout1 = (function () {
     ], TabsLayout1.prototype, "tabRef", void 0);
     TabsLayout1 = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
-            selector: 'tabs-layout-1',template:/*ion-inline-start:"/Users/xoxo/Downloads/codecanyon/src/components/tabs/layout-1/tabs.html"*/'<!-- Theme Tabs Footer tab - text -->\n\n<ion-tabs #tabs tabsPlacement="bottom">\n\n    <ion-tab [tabTitle]="item.title" [tabIcon]="item.icon" [root]="item.page" *ngFor="let item of data;let i = index"></ion-tab>\n\n</ion-tabs>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/codecanyon/src/components/tabs/layout-1/tabs.html"*/
+            selector: 'tabs-layout-1',template:/*ion-inline-start:"/Users/xoxo/Downloads/prj666-g1/src/components/tabs/layout-1/tabs.html"*/'<!-- Theme Tabs Footer tab - text -->\n\n<ion-tabs #tabs tabsPlacement="bottom">\n\n    <ion-tab [tabTitle]="item.title" [tabIcon]="item.icon" [root]="item.page" *ngFor="let item of data;let i = index"></ion-tab>\n\n</ion-tabs>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/prj666-g1/src/components/tabs/layout-1/tabs.html"*/
         }),
         __metadata("design:paramtypes", [])
     ], TabsLayout1);
@@ -251,7 +251,7 @@ var TabsLayout2 = (function () {
     ], TabsLayout2.prototype, "tabRef", void 0);
     TabsLayout2 = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
-            selector: 'tabs-layout-2',template:/*ion-inline-start:"/Users/xoxo/Downloads/codecanyon/src/components/tabs/layout-2/tabs.html"*/'<!-- Theme Tabs Footer tab - icons -->\n\n<ion-tabs #tabs tabsPlacement=\'bottom\'>\n\n    <ion-tab [tabIcon]="item.icon" [root]="item.page" *ngFor="let item of data;let i = index"></ion-tab>\n\n</ion-tabs>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/codecanyon/src/components/tabs/layout-2/tabs.html"*/
+            selector: 'tabs-layout-2',template:/*ion-inline-start:"/Users/xoxo/Downloads/prj666-g1/src/components/tabs/layout-2/tabs.html"*/'<!-- Theme Tabs Footer tab - icons -->\n\n<ion-tabs #tabs tabsPlacement=\'bottom\'>\n\n    <ion-tab [tabIcon]="item.icon" [root]="item.page" *ngFor="let item of data;let i = index"></ion-tab>\n\n</ion-tabs>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/prj666-g1/src/components/tabs/layout-2/tabs.html"*/
         }),
         __metadata("design:paramtypes", [])
     ], TabsLayout2);
@@ -295,7 +295,7 @@ var TabsLayout3 = (function () {
     ], TabsLayout3.prototype, "tabRef", void 0);
     TabsLayout3 = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
-            selector: 'tabs-layout-3',template:/*ion-inline-start:"/Users/xoxo/Downloads/codecanyon/src/components/tabs/layout-3/tabs.html"*/'<!-- Theme Tabs Header tab - text -->\n\n<ion-tabs #tabs tabsPlacement=\'top\' tabs-content>\n\n  <ion-item header transparent no-lines>\n\n      <h2 ion-title margin-top>{{data.title}}</h2>\n\n      <h1 ion-title text-wrap header-title no-margin>{{data.description}}</h1>\n\n  </ion-item>\n\n    <ion-tab [tabTitle]="item.title" [root]="item.page" *ngFor="let item of data.data;let i = index">\n\n    </ion-tab>\n\n</ion-tabs>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/codecanyon/src/components/tabs/layout-3/tabs.html"*/
+            selector: 'tabs-layout-3',template:/*ion-inline-start:"/Users/xoxo/Downloads/prj666-g1/src/components/tabs/layout-3/tabs.html"*/'<!-- Theme Tabs Header tab - text -->\n\n<ion-tabs #tabs tabsPlacement=\'top\' tabs-content>\n\n  <ion-item header transparent no-lines>\n\n      <h2 ion-title margin-top>{{data.title}}</h2>\n\n      <h1 ion-title text-wrap header-title no-margin>{{data.description}}</h1>\n\n  </ion-item>\n\n    <ion-tab [tabTitle]="item.title" [root]="item.page" *ngFor="let item of data.data;let i = index">\n\n    </ion-tab>\n\n</ion-tabs>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/prj666-g1/src/components/tabs/layout-3/tabs.html"*/
         }),
         __metadata("design:paramtypes", [])
     ], TabsLayout3);
@@ -367,7 +367,7 @@ var ItemDetailsPageTabs = (function () {
         }
     }
     ItemDetailsPageTabs = __decorate([
-        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"/Users/xoxo/Downloads/codecanyon/src/pages/item-details-tabs/item-details-tabs.html"*/'<!--Tabs Page Component-->\n\n<ion-header>\n\n    <ion-navbar>\n\n        <button ion-button menuToggle>\n\n      <ion-icon name="menu"></ion-icon>\n\n    </button>\n\n        <ion-title>{{params.title}}</ion-title>\n\n    </ion-navbar>\n\n</ion-header>\n\n<!-- Content -->\n\n\n\n<!--TABS PAGE - Footer tab - text -->\n\n<tabs-layout-1 has-header *ngIf="params.tabsLayout1" [data]="params.data" [events]="params.events">\n\n</tabs-layout-1>\n\n\n\n<!--TABS PAGE - Footer tab - icons -->\n\n<tabs-layout-2 has-header *ngIf="params.tabsLayout2" [data]="params.data" [events]="params.events">\n\n</tabs-layout-2>\n\n\n\n<!--TABS PAGE - Header tab - text -->\n\n<tabs-layout-3 has-header *ngIf="params.tabsLayout3" [data]="params" [events]="params.events">\n\n</tabs-layout-3>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/codecanyon/src/pages/item-details-tabs/item-details-tabs.html"*/
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"/Users/xoxo/Downloads/prj666-g1/src/pages/item-details-tabs/item-details-tabs.html"*/'<!--Tabs Page Component-->\n\n<ion-header>\n\n    <ion-navbar>\n\n        <button ion-button menuToggle>\n\n      <ion-icon name="menu"></ion-icon>\n\n    </button>\n\n        <ion-title>{{params.title}}</ion-title>\n\n    </ion-navbar>\n\n</ion-header>\n\n<!-- Content -->\n\n\n\n<!--TABS PAGE - Footer tab - text -->\n\n<tabs-layout-1 has-header *ngIf="params.tabsLayout1" [data]="params.data" [events]="params.events">\n\n</tabs-layout-1>\n\n\n\n<!--TABS PAGE - Footer tab - icons -->\n\n<tabs-layout-2 has-header *ngIf="params.tabsLayout2" [data]="params.data" [events]="params.events">\n\n</tabs-layout-2>\n\n\n\n<!--TABS PAGE - Header tab - text -->\n\n<tabs-layout-3 has-header *ngIf="params.tabsLayout3" [data]="params" [events]="params.events">\n\n</tabs-layout-3>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/prj666-g1/src/pages/item-details-tabs/item-details-tabs.html"*/
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["m" /* NavParams */]])
     ], ItemDetailsPageTabs);

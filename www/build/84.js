@@ -80,7 +80,7 @@ var RangeLayout1 = (function () {
     ], RangeLayout1.prototype, "events", void 0);
     RangeLayout1 = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
-            selector: 'range-button-layout-1',template:/*ion-inline-start:"/Users/xoxo/Downloads/codecanyon/src/components/range/layout-1/range.html"*/'<!-- RANGE COMPONENTS - Basic -->\n\n<ion-list no-margin *ngIf="data != null">\n\n    <ion-list-header no-lines no-margin text-uppercase>\n\n        <p ion-text>{{data.title}}</p>\n\n        <ion-badge item-end>{{data.value}}</ion-badge>\n\n    </ion-list-header>\n\n    <ion-item>\n\n        <ion-range [(ngModel)]="data.value" (ionChange)="onEvent(\'onChange\', data.value, $event)">\n\n        </ion-range>\n\n    </ion-item>\n\n</ion-list>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/codecanyon/src/components/range/layout-1/range.html"*/
+            selector: 'range-button-layout-1',template:/*ion-inline-start:"/Users/xoxo/Downloads/prj666-g1/src/components/range/layout-1/range.html"*/'<!-- RANGE COMPONENTS - Basic -->\n\n<ion-list no-margin *ngIf="data != null">\n\n    <ion-list-header no-lines no-margin text-uppercase>\n\n        <p ion-text>{{data.title}}</p>\n\n        <ion-badge item-end>{{data.value}}</ion-badge>\n\n    </ion-list-header>\n\n    <ion-item>\n\n        <ion-range [(ngModel)]="data.value" (ionChange)="onEvent(\'onChange\', data.value, $event)">\n\n        </ion-range>\n\n    </ion-item>\n\n</ion-list>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/prj666-g1/src/components/range/layout-1/range.html"*/
         }),
         __metadata("design:paramtypes", [])
     ], RangeLayout1);

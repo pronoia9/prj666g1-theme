@@ -42,7 +42,7 @@ var SpinnerModule = (function () {
 
 /***/ }),
 
-/***/ 637:
+/***/ 636:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -50,7 +50,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ItemDetailsPageSpinnerModule", function() { return ItemDetailsPageSpinnerModule; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__item_details_spinner__ = __webpack_require__(890);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__item_details_spinner__ = __webpack_require__(889);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_spinner_spinner_module__ = __webpack_require__(605);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -116,7 +116,7 @@ var Spinner = (function () {
     ], Spinner.prototype, "data", void 0);
     Spinner = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
-            selector: 'spinner',template:/*ion-inline-start:"/Users/xoxo/Downloads/codecanyon/src/components/spinner/spinner.html"*/'<!-- Theme Spinner -->\n\n<img [src]="path" />'/*ion-inline-end:"/Users/xoxo/Downloads/codecanyon/src/components/spinner/spinner.html"*/
+            selector: 'spinner',template:/*ion-inline-start:"/Users/xoxo/Downloads/prj666-g1/src/components/spinner/spinner.html"*/'<!-- Theme Spinner -->\n\n<img [src]="path" />'/*ion-inline-end:"/Users/xoxo/Downloads/prj666-g1/src/components/spinner/spinner.html"*/
         }),
         __metadata("design:paramtypes", [])
     ], Spinner);
@@ -127,7 +127,7 @@ var Spinner = (function () {
 
 /***/ }),
 
-/***/ 890:
+/***/ 889:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -164,7 +164,7 @@ var ItemDetailsPageSpinner = (function () {
         }
     }
     ItemDetailsPageSpinner = __decorate([
-        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"/Users/xoxo/Downloads/codecanyon/src/pages/item-details-spinner/item-details-spinner.html"*/'<!--Spinner components-->\n\n<ion-header>\n\n    <ion-navbar>\n\n        <button ion-button menuToggle>\n\n      <ion-icon name="menu"></ion-icon>\n\n    </button>\n\n        <ion-title text-left>{{params.title}}</ion-title>\n\n    </ion-navbar>\n\n</ion-header>\n\n<!--Content-->\n\n<ion-content class="spinner-view">\n\n    <ion-slides *ngIf="params.data.length" pager="true">\n\n        <ion-slide *ngFor="let spinnerItem of params.data;">\n\n            <spinner [data]="spinnerItem"></spinner>\n\n        </ion-slide>\n\n    </ion-slides>\n\n</ion-content>'/*ion-inline-end:"/Users/xoxo/Downloads/codecanyon/src/pages/item-details-spinner/item-details-spinner.html"*/
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"/Users/xoxo/Downloads/prj666-g1/src/pages/item-details-spinner/item-details-spinner.html"*/'<!--Spinner components-->\n\n<ion-header>\n\n    <ion-navbar>\n\n        <button ion-button menuToggle>\n\n      <ion-icon name="menu"></ion-icon>\n\n    </button>\n\n        <ion-title text-left>{{params.title}}</ion-title>\n\n    </ion-navbar>\n\n</ion-header>\n\n<!--Content-->\n\n<ion-content class="spinner-view">\n\n    <ion-slides *ngIf="params.data.length" pager="true">\n\n        <ion-slide *ngFor="let spinnerItem of params.data;">\n\n            <spinner [data]="spinnerItem"></spinner>\n\n        </ion-slide>\n\n    </ion-slides>\n\n</ion-content>'/*ion-inline-end:"/Users/xoxo/Downloads/prj666-g1/src/pages/item-details-spinner/item-details-spinner.html"*/
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["m" /* NavParams */]])
     ], ItemDetailsPageSpinner);

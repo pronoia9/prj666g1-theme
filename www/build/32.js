@@ -148,7 +148,7 @@ var FullScreenGallery = (function () {
     ], FullScreenGallery.prototype, "slider", void 0);
     FullScreenGallery = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
-            selector: 'full-screen-gallery',template:/*ion-inline-start:"/Users/xoxo/Downloads/codecanyon/src/components/full-screen-gallery/full-screen-gallery.html"*/'<!--Screen Gallery-->\n\n<ion-slides #slider pager="true" zoom="true" [initialSlide]="data.index">\n\n    <ion-slide *ngFor="let item of data.items;">\n\n        <img [src]="item.image" />\n\n    </ion-slide>\n\n</ion-slides>'/*ion-inline-end:"/Users/xoxo/Downloads/codecanyon/src/components/full-screen-gallery/full-screen-gallery.html"*/
+            selector: 'full-screen-gallery',template:/*ion-inline-start:"/Users/xoxo/Downloads/prj666-g1/src/components/full-screen-gallery/full-screen-gallery.html"*/'<!--Screen Gallery-->\n\n<ion-slides #slider pager="true" zoom="true" [initialSlide]="data.index">\n\n    <ion-slide *ngFor="let item of data.items;">\n\n        <img [src]="item.image" />\n\n    </ion-slide>\n\n</ion-slides>'/*ion-inline-end:"/Users/xoxo/Downloads/prj666-g1/src/components/full-screen-gallery/full-screen-gallery.html"*/
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["m" /* NavParams */]])
     ], FullScreenGallery);
@@ -193,7 +193,7 @@ var ItemDetailsPageFullScreenGallery = (function () {
         }
     }
     ItemDetailsPageFullScreenGallery = __decorate([
-        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"/Users/xoxo/Downloads/codecanyon/src/pages/item-details-full-screen-gallery/item-details-full-screen-gallery.html"*/'<!--Full gallery component-->\n\n<ion-header>\n\n    <ion-navbar>\n\n        <button ion-button menuToggle>\n\n      <ion-icon name="menu"></ion-icon>\n\n    </button>\n\n        <ion-title>Images</ion-title>\n\n    </ion-navbar>\n\n</ion-header>\n\n<ion-content>\n\n    <full-screen-gallery [data]="params.data"></full-screen-gallery>\n\n</ion-content>'/*ion-inline-end:"/Users/xoxo/Downloads/codecanyon/src/pages/item-details-full-screen-gallery/item-details-full-screen-gallery.html"*/
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"/Users/xoxo/Downloads/prj666-g1/src/pages/item-details-full-screen-gallery/item-details-full-screen-gallery.html"*/'<!--Full gallery component-->\n\n<ion-header>\n\n    <ion-navbar>\n\n        <button ion-button menuToggle>\n\n      <ion-icon name="menu"></ion-icon>\n\n    </button>\n\n        <ion-title>Images</ion-title>\n\n    </ion-navbar>\n\n</ion-header>\n\n<ion-content>\n\n    <full-screen-gallery [data]="params.data"></full-screen-gallery>\n\n</ion-content>'/*ion-inline-end:"/Users/xoxo/Downloads/prj666-g1/src/pages/item-details-full-screen-gallery/item-details-full-screen-gallery.html"*/
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["m" /* NavParams */]])
     ], ItemDetailsPageFullScreenGallery);

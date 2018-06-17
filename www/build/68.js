@@ -96,7 +96,7 @@ var SplashScreenLayout1 = (function () {
     ], SplashScreenLayout1.prototype, "events", void 0);
     SplashScreenLayout1 = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
-            selector: 'splash-screen-layout-1',template:/*ion-inline-start:"/Users/xoxo/Downloads/codecanyon/src/components/splash-screen/layout-1/splash-screen.html"*/'<!--Theme Animation Logo + Ken Burns -->\n\n<div id="splash-background-image">\n\n  <img images-filter class="splash-screen" [src]="data.backgroundImage" />\n\n  <img logo animation [src]="data.logo" />\n\n</div>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/codecanyon/src/components/splash-screen/layout-1/splash-screen.html"*/
+            selector: 'splash-screen-layout-1',template:/*ion-inline-start:"/Users/xoxo/Downloads/prj666-g1/src/components/splash-screen/layout-1/splash-screen.html"*/'<!--Theme Animation Logo + Ken Burns -->\n\n<div id="splash-background-image">\n\n  <img images-filter class="splash-screen" [src]="data.backgroundImage" />\n\n  <img logo animation [src]="data.logo" />\n\n</div>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/prj666-g1/src/components/splash-screen/layout-1/splash-screen.html"*/
         }),
         __metadata("design:paramtypes", [])
     ], SplashScreenLayout1);

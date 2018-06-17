@@ -75,7 +75,7 @@ var TabsLayout1 = (function () {
     ], TabsLayout1.prototype, "tabRef", void 0);
     TabsLayout1 = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
-            selector: 'tabs-layout-1',template:/*ion-inline-start:"/Users/xoxo/Downloads/codecanyon/src/components/tabs/layout-1/tabs.html"*/'<!-- Theme Tabs Footer tab - text -->\n\n<ion-tabs #tabs tabsPlacement="bottom">\n\n    <ion-tab [tabTitle]="item.title" [tabIcon]="item.icon" [root]="item.page" *ngFor="let item of data;let i = index"></ion-tab>\n\n</ion-tabs>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/codecanyon/src/components/tabs/layout-1/tabs.html"*/
+            selector: 'tabs-layout-1',template:/*ion-inline-start:"/Users/xoxo/Downloads/prj666-g1/src/components/tabs/layout-1/tabs.html"*/'<!-- Theme Tabs Footer tab - text -->\n\n<ion-tabs #tabs tabsPlacement="bottom">\n\n    <ion-tab [tabTitle]="item.title" [tabIcon]="item.icon" [root]="item.page" *ngFor="let item of data;let i = index"></ion-tab>\n\n</ion-tabs>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/prj666-g1/src/components/tabs/layout-1/tabs.html"*/
         }),
         __metadata("design:paramtypes", [])
     ], TabsLayout1);

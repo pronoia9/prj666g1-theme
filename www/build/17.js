@@ -126,7 +126,7 @@ var SplashScreenLayout3Module = (function () {
 
 /***/ }),
 
-/***/ 636:
+/***/ 637:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -134,7 +134,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ItemDetailsPageSplashScreenModule", function() { return ItemDetailsPageSplashScreenModule; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__item_details_splash_screen__ = __webpack_require__(889);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__item_details_splash_screen__ = __webpack_require__(890);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_splash_screen_layout_1_splash_screen_layout_1_module__ = __webpack_require__(606);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_splash_screen_layout_2_splash_screen_layout_2_module__ = __webpack_require__(607);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_splash_screen_layout_3_splash_screen_layout_3_module__ = __webpack_require__(608);
@@ -226,7 +226,7 @@ var SplashScreenLayout1 = (function () {
     ], SplashScreenLayout1.prototype, "events", void 0);
     SplashScreenLayout1 = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
-            selector: 'splash-screen-layout-1',template:/*ion-inline-start:"/Users/xoxo/Downloads/codecanyon/src/components/splash-screen/layout-1/splash-screen.html"*/'<!--Theme Animation Logo + Ken Burns -->\n\n<div id="splash-background-image">\n\n  <img images-filter class="splash-screen" [src]="data.backgroundImage" />\n\n  <img logo animation [src]="data.logo" />\n\n</div>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/codecanyon/src/components/splash-screen/layout-1/splash-screen.html"*/
+            selector: 'splash-screen-layout-1',template:/*ion-inline-start:"/Users/xoxo/Downloads/prj666-g1/src/components/splash-screen/layout-1/splash-screen.html"*/'<!--Theme Animation Logo + Ken Burns -->\n\n<div id="splash-background-image">\n\n  <img images-filter class="splash-screen" [src]="data.backgroundImage" />\n\n  <img logo animation [src]="data.logo" />\n\n</div>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/prj666-g1/src/components/splash-screen/layout-1/splash-screen.html"*/
         }),
         __metadata("design:paramtypes", [])
     ], SplashScreenLayout1);
@@ -291,7 +291,7 @@ var SplashScreenLayout2 = (function () {
     ], SplashScreenLayout2.prototype, "events", void 0);
     SplashScreenLayout2 = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
-            selector: 'splash-screen-layout-2',template:/*ion-inline-start:"/Users/xoxo/Downloads/codecanyon/src/components/splash-screen/layout-2/splash-screen.html"*/'<!--Theme Logo + fade in + Ken Burns-->\n\n<div id="splash-background-image">\n\n  <img images-filter class="splash-screen" [src]="data.backgroundImage" />\n\n  <img logo animation [src]="data.logo" />\n\n</div>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/codecanyon/src/components/splash-screen/layout-2/splash-screen.html"*/
+            selector: 'splash-screen-layout-2',template:/*ion-inline-start:"/Users/xoxo/Downloads/prj666-g1/src/components/splash-screen/layout-2/splash-screen.html"*/'<!--Theme Logo + fade in + Ken Burns-->\n\n<div id="splash-background-image">\n\n  <img images-filter class="splash-screen" [src]="data.backgroundImage" />\n\n  <img logo animation [src]="data.logo" />\n\n</div>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/prj666-g1/src/components/splash-screen/layout-2/splash-screen.html"*/
         }),
         __metadata("design:paramtypes", [])
     ], SplashScreenLayout2);
@@ -356,7 +356,7 @@ var SplashScreenLayout3 = (function () {
     ], SplashScreenLayout3.prototype, "events", void 0);
     SplashScreenLayout3 = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
-            selector: 'splash-screen-layout-3',template:/*ion-inline-start:"/Users/xoxo/Downloads/codecanyon/src/components/splash-screen/layout-3/splash-screen.html"*/'<!--Theme Logo + Title + Ken Burns-->\n\n<div id="splash-background-image">\n\n  <img images-filter splash-screen [src]="data.backgroundImage" />\n\n    <img logo [src]="data.logo" />\n\n    <h1 header-title text-wrap>{{data.title}}</h1>\n\n</div>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/codecanyon/src/components/splash-screen/layout-3/splash-screen.html"*/
+            selector: 'splash-screen-layout-3',template:/*ion-inline-start:"/Users/xoxo/Downloads/prj666-g1/src/components/splash-screen/layout-3/splash-screen.html"*/'<!--Theme Logo + Title + Ken Burns-->\n\n<div id="splash-background-image">\n\n  <img images-filter splash-screen [src]="data.backgroundImage" />\n\n    <img logo [src]="data.logo" />\n\n    <h1 header-title text-wrap>{{data.title}}</h1>\n\n</div>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/prj666-g1/src/components/splash-screen/layout-3/splash-screen.html"*/
         }),
         __metadata("design:paramtypes", [])
     ], SplashScreenLayout3);
@@ -367,7 +367,7 @@ var SplashScreenLayout3 = (function () {
 
 /***/ }),
 
-/***/ 889:
+/***/ 890:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -404,7 +404,7 @@ var ItemDetailsPageSplashScreen = (function () {
         }
     }
     ItemDetailsPageSplashScreen = __decorate([
-        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"/Users/xoxo/Downloads/codecanyon/src/pages/item-details-splash-screen/item-details-splash-screen.html"*/'<!--Splash Screens component-->\n\n\n\n<!--PAGE SPLASH SCREENS - Ken Burns-->\n\n<ion-content *ngIf="params.splashScreensLayout1">\n\n    <splash-screen-layout-1 [data]="params.data" [events]="params.events">\n\n    </splash-screen-layout-1>\n\n</ion-content>\n\n\n\n<!--PAGE SPLASH SCREENS - Logo + fade in + Ken Burns-->\n\n<ion-content *ngIf="params.splashScreensLayout2">\n\n    <splash-screen-layout-2 [data]="params.data" [events]="params.events">\n\n    </splash-screen-layout-2>\n\n</ion-content>\n\n\n\n<!--PAGE SPLASH SCREENS - Logo + Title + Ken Burns-->\n\n<ion-content *ngIf="params.splashScreensLayout3">\n\n    <splash-screen-layout-3 [data]="params.data" [events]="params.events">\n\n    </splash-screen-layout-3>\n\n</ion-content>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/codecanyon/src/pages/item-details-splash-screen/item-details-splash-screen.html"*/
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"/Users/xoxo/Downloads/prj666-g1/src/pages/item-details-splash-screen/item-details-splash-screen.html"*/'<!--Splash Screens component-->\n\n\n\n<!--PAGE SPLASH SCREENS - Ken Burns-->\n\n<ion-content *ngIf="params.splashScreensLayout1">\n\n    <splash-screen-layout-1 [data]="params.data" [events]="params.events">\n\n    </splash-screen-layout-1>\n\n</ion-content>\n\n\n\n<!--PAGE SPLASH SCREENS - Logo + fade in + Ken Burns-->\n\n<ion-content *ngIf="params.splashScreensLayout2">\n\n    <splash-screen-layout-2 [data]="params.data" [events]="params.events">\n\n    </splash-screen-layout-2>\n\n</ion-content>\n\n\n\n<!--PAGE SPLASH SCREENS - Logo + Title + Ken Burns-->\n\n<ion-content *ngIf="params.splashScreensLayout3">\n\n    <splash-screen-layout-3 [data]="params.data" [events]="params.events">\n\n    </splash-screen-layout-3>\n\n</ion-content>\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/prj666-g1/src/pages/item-details-splash-screen/item-details-splash-screen.html"*/
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["m" /* NavParams */]])
     ], ItemDetailsPageSplashScreen);

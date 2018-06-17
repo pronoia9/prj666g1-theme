@@ -73,7 +73,7 @@ var ItemDetailsPage = (function () {
         }
     }
     ItemDetailsPage = __decorate([
-        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"/Users/xoxo/Downloads/codecanyon/src/pages/item-details/item-details.html"*/'\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/codecanyon/src/pages/item-details/item-details.html"*/
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"/Users/xoxo/Downloads/prj666-g1/src/pages/item-details/item-details.html"*/'\n\n'/*ion-inline-end:"/Users/xoxo/Downloads/prj666-g1/src/pages/item-details/item-details.html"*/
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["l" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["m" /* NavParams */]])
     ], ItemDetailsPage);

@@ -1,6 +1,6 @@
 webpackJsonp([57],{
 
-/***/ 615:
+/***/ 616:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -8,7 +8,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "WizardLayout2Module", function() { return WizardLayout2Module; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__wizard_layout_2__ = __webpack_require__(866);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__wizard_layout_2__ = __webpack_require__(867);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -42,7 +42,7 @@ var WizardLayout2Module = (function () {
 
 /***/ }),
 
-/***/ 866:
+/***/ 867:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -102,7 +102,7 @@ var WizardLayout2 = (function () {
     ], WizardLayout2.prototype, "slider", void 0);
     WizardLayout2 = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
-            selector: 'wizard-layout-2',template:/*ion-inline-start:"/Users/xoxo/Downloads/codecanyon/src/components/wizard/layout-2/wizard.html"*/'<!--Theme Wizard Big Image -->\n\n<ion-slides #wizardSlider (ionSlideDidChange)="slideHasChanged()" pager="true" *ngIf="data != null">\n\n    <ion-slide *ngFor="let item of data.items;">\n\n        <!-- Background Settings-->\n\n        <div background-size [ngStyle]="{\'background-image\': \'url(\' + item.backgroundImage + \')\'}"></div>\n\n        <!--Wiazard Subtitle-->\n\n        <p padding-top no-margin wizard-subtitle>{{item.welcome}}</p>\n\n        <!--Wizard Title-->\n\n        <h1 padding-horizontal wizard-title no-margin>{{item.title}}</h1>\n\n        <!--Wizard Description-->\n\n        <p padding-horizontal wizard-description>{{item.description}}</p>\n\n    </ion-slide>\n\n</ion-slides>\n\n<!--Button section-->\n\n<div *ngIf="data != null">\n\n    <button ion-button button-clear text-capitalize full text-center clear ion-button (click)="changeSlide(1)" *ngIf="next">\n\n        {{data.btnNext}}\n\n    </button>\n\n    <button ion-button button-clear text-capitalize full text-center clear ion-button (click)="onEvent(\'onFinish\')" *ngIf="finish">\n\n     {{data.btnFinish}}\n\n    </button>\n\n</div>'/*ion-inline-end:"/Users/xoxo/Downloads/codecanyon/src/components/wizard/layout-2/wizard.html"*/
+            selector: 'wizard-layout-2',template:/*ion-inline-start:"/Users/xoxo/Downloads/prj666-g1/src/components/wizard/layout-2/wizard.html"*/'<!--Theme Wizard Big Image -->\n\n<ion-slides #wizardSlider (ionSlideDidChange)="slideHasChanged()" pager="true" *ngIf="data != null">\n\n    <ion-slide *ngFor="let item of data.items;">\n\n        <!-- Background Settings-->\n\n        <div background-size [ngStyle]="{\'background-image\': \'url(\' + item.backgroundImage + \')\'}"></div>\n\n        <!--Wiazard Subtitle-->\n\n        <p padding-top no-margin wizard-subtitle>{{item.welcome}}</p>\n\n        <!--Wizard Title-->\n\n        <h1 padding-horizontal wizard-title no-margin>{{item.title}}</h1>\n\n        <!--Wizard Description-->\n\n        <p padding-horizontal wizard-description>{{item.description}}</p>\n\n    </ion-slide>\n\n</ion-slides>\n\n<!--Button section-->\n\n<div *ngIf="data != null">\n\n    <button ion-button button-clear text-capitalize full text-center clear ion-button (click)="changeSlide(1)" *ngIf="next">\n\n        {{data.btnNext}}\n\n    </button>\n\n    <button ion-button button-clear text-capitalize full text-center clear ion-button (click)="onEvent(\'onFinish\')" *ngIf="finish">\n\n     {{data.btnFinish}}\n\n    </button>\n\n</div>'/*ion-inline-end:"/Users/xoxo/Downloads/prj666-g1/src/components/wizard/layout-2/wizard.html"*/
         }),
         __metadata("design:paramtypes", [])
     ], WizardLayout2);
