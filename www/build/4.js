@@ -1,6 +1,6 @@
 webpackJsonp([4,6,7,8],{
 
-/***/ 579:
+/***/ 577:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -8,7 +8,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "MapsLayout1Module", function() { return MapsLayout1Module; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__maps_layout_1__ = __webpack_require__(830);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__maps_layout_1__ = __webpack_require__(828);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__elastic_header_elastic_header_module__ = __webpack_require__(663);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__services_app_settings__ = __webpack_require__(80);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__agm_core__ = __webpack_require__(701);
@@ -50,7 +50,7 @@ var MapsLayout1Module = (function () {
 
 /***/ }),
 
-/***/ 580:
+/***/ 578:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -58,7 +58,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "MapsLayout2Module", function() { return MapsLayout2Module; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__maps_layout_2__ = __webpack_require__(831);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__maps_layout_2__ = __webpack_require__(829);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__services_app_settings__ = __webpack_require__(80);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__agm_core__ = __webpack_require__(701);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -97,7 +97,7 @@ var MapsLayout2Module = (function () {
 
 /***/ }),
 
-/***/ 581:
+/***/ 579:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -105,7 +105,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "MapsLayout3Module", function() { return MapsLayout3Module; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__maps_layout_3__ = __webpack_require__(832);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__maps_layout_3__ = __webpack_require__(830);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__services_app_settings__ = __webpack_require__(80);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__agm_core__ = __webpack_require__(701);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -153,9 +153,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__item_details_maps__ = __webpack_require__(881);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_maps_layout_1_maps_layout_1_module__ = __webpack_require__(579);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_maps_layout_2_maps_layout_2_module__ = __webpack_require__(580);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_maps_layout_3_maps_layout_3_module__ = __webpack_require__(581);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_maps_layout_1_maps_layout_1_module__ = __webpack_require__(577);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_maps_layout_2_maps_layout_2_module__ = __webpack_require__(578);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_maps_layout_3_maps_layout_3_module__ = __webpack_require__(579);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -3413,7 +3413,7 @@ AgmCoreModule.ctorParameters = function () { return []; };
 
 /***/ }),
 
-/***/ 830:
+/***/ 828:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -3496,7 +3496,7 @@ var MapsLayout1 = (function () {
 
 /***/ }),
 
-/***/ 831:
+/***/ 829:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -3572,7 +3572,7 @@ var MapsLayout2 = (function () {
 
 /***/ }),
 
-/***/ 832:
+/***/ 830:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";

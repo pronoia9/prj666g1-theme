@@ -64,11 +64,11 @@ webpackEmptyAsyncContext.id = 198;
 
 var map = {
 	"../components/action-sheet/layout-1/action-sheet-layout-1.module": [
-		548,
+		615,
 		38
 	],
 	"../components/action-sheet/layout-2/action-sheet-layout-2.module": [
-		550,
+		548,
 		37
 	],
 	"../components/action-sheet/layout-3/action-sheet-layout-3.module": [
@@ -76,235 +76,235 @@ var map = {
 		114
 	],
 	"../components/check-box/layout-1/check-box-layout-1.module": [
-		551,
+		550,
 		113
 	],
 	"../components/check-box/layout-2/check-box-layout-2.module": [
-		552,
+		551,
 		112
 	],
 	"../components/check-box/layout-3/check-box-layout-3.module": [
-		553,
+		616,
 		111
 	],
 	"../components/full-screen-gallery/full-screen-gallery.module": [
-		554,
+		552,
 		110
 	],
 	"../components/image-gallery/layout-1/image-gallery-layout-1.module": [
-		555,
+		553,
 		109
 	],
 	"../components/image-gallery/layout-2/image-gallery-layout-2.module": [
-		556,
+		554,
 		108
 	],
 	"../components/list-view/appearance-animation/layout-1/appearance-animation-layout-1.module": [
-		557,
+		555,
 		107
 	],
 	"../components/list-view/appearance-animation/layout-2/appearance-animation-layout-2.module": [
-		558,
+		556,
 		106
 	],
 	"../components/list-view/appearance-animation/layout-3/appearance-animation-layout-3.module": [
-		559,
+		557,
 		105
 	],
 	"../components/list-view/appearance-animation/layout-4/appearance-animation-layout-4.module": [
-		560,
+		558,
 		104
 	],
 	"../components/list-view/appearance-animation/layout-5/appearance-animation-layout-5.module": [
-		561,
+		559,
 		103
 	],
 	"../components/list-view/drag-and-drop/layout-1/drag-and-drop-layout-1.module": [
-		563,
+		560,
 		102
 	],
 	"../components/list-view/drag-and-drop/layout-2/drag-and-drop-layout-2.module": [
-		562,
+		561,
 		101
 	],
 	"../components/list-view/drag-and-drop/layout-3/drag-and-drop-layout-3.module": [
-		564,
+		562,
 		100
 	],
 	"../components/list-view/expandable/layout-1/expandable-layout-1.module": [
-		565,
+		563,
 		99
 	],
 	"../components/list-view/expandable/layout-2/expandable-layout-2.module": [
-		566,
+		564,
 		98
 	],
 	"../components/list-view/expandable/layout-3/expandable-layout-3.module": [
-		567,
+		565,
 		97
 	],
 	"../components/list-view/google-card/layout-1/google-card-layout-1.module": [
-		568,
+		566,
 		96
 	],
 	"../components/list-view/google-card/layout-2/google-card-layout-2.module": [
-		570,
+		567,
 		95
 	],
 	"../components/list-view/google-card/layout-3/google-card-layout-3.module": [
-		569,
+		568,
 		94
 	],
 	"../components/list-view/sticky-list-header/layout-1/sticky-list-header-layout-1.module": [
-		571,
+		569,
 		3
 	],
 	"../components/list-view/sticky-list-header/layout-2/sticky-list-header-layout-2.module": [
-		572,
+		570,
 		2
 	],
 	"../components/list-view/sticky-list-header/layout-3/sticky-list-header-layout-3.module": [
-		573,
+		571,
 		1
 	],
 	"../components/list-view/swipe-to-dismiss/layout-1/swipe-to-dismiss-layout-1.module": [
-		575,
+		572,
 		93
 	],
 	"../components/list-view/swipe-to-dismiss/layout-2/swipe-to-dismiss-layout-2.module": [
-		574,
+		573,
 		92
 	],
 	"../components/list-view/swipe-to-dismiss/layout-3/swipe-to-dismiss-layout-3.module": [
-		576,
+		574,
 		91
 	],
 	"../components/login/layout-1/login-layout-1.module": [
-		577,
+		575,
 		90
 	],
 	"../components/login/layout-2/login-layout-2.module": [
-		578,
+		576,
 		89
 	],
 	"../components/maps/layout-1/maps-layout-1.module": [
-		579,
+		577,
 		6
 	],
 	"../components/maps/layout-2/maps-layout-2.module": [
-		580,
+		578,
 		8
 	],
 	"../components/maps/layout-3/maps-layout-3.module": [
-		581,
+		579,
 		7
 	],
 	"../components/parallax/layout-1/parallax-layout-1.module": [
-		582,
+		580,
 		36
 	],
 	"../components/parallax/layout-2/parallax-layout-2.module": [
-		583,
+		581,
 		35
 	],
 	"../components/parallax/layout-3/parallax-layout-3.module": [
-		584,
+		582,
 		34
 	],
 	"../components/parallax/layout-4/parallax-layout-4.module": [
-		585,
+		583,
 		33
 	],
 	"../components/qrcode/layout-1/qrcode-layout-1.module": [
-		586,
+		584,
 		88
 	],
 	"../components/radio-button/layout-1/radio-button-layout-1.module": [
-		587,
+		585,
 		87
 	],
 	"../components/radio-button/layout-2/radio-button-layout-2.module": [
-		588,
+		586,
 		86
 	],
 	"../components/radio-button/layout-3/radio-button-layout-3.module": [
-		589,
+		587,
 		85
 	],
 	"../components/range/layout-1/range-layout-1.module": [
-		590,
+		588,
 		84
 	],
 	"../components/range/layout-2/range-layout-2.module": [
-		591,
+		589,
 		83
 	],
 	"../components/range/layout-3/range-layout-3.module": [
-		592,
+		590,
 		82
 	],
 	"../components/range/layout-4/range-layout-4.module": [
-		593,
+		591,
 		81
 	],
 	"../components/register/layout-1/register-layout-1.module": [
-		594,
+		592,
 		80
 	],
 	"../components/register/layout-2/register-layout-2.module": [
-		595,
+		593,
 		79
 	],
 	"../components/search-bar/layout-1/search-bar-layout-1.module": [
-		596,
+		594,
 		78
 	],
 	"../components/search-bar/layout-2/search-bar-layout-2.module": [
-		597,
+		595,
 		77
 	],
 	"../components/search-bar/layout-3/search-bar-layout-3.module": [
-		598,
+		596,
 		76
 	],
 	"../components/select/layout-1/select-layout-1.module": [
-		600,
+		597,
 		75
 	],
 	"../components/select/layout-2/select-layout-2.module": [
-		599,
+		598,
 		74
 	],
 	"../components/select/layout-3/select-layout-3.module": [
-		601,
+		599,
 		73
 	],
 	"../components/select/layout-4/select-layout-4.module": [
-		603,
+		600,
 		72
 	],
 	"../components/select/layout-5/select-layout-5.module": [
-		602,
+		601,
 		71
 	],
 	"../components/select/layout-6/select-layout-6.module": [
-		604,
+		602,
 		70
 	],
 	"../components/spinner/spinner.module": [
-		605,
+		603,
 		69
 	],
 	"../components/splash-screen/layout-1/splash-screen-layout-1.module": [
-		606,
+		604,
 		68
 	],
 	"../components/splash-screen/layout-2/splash-screen-layout-2.module": [
-		607,
+		605,
 		67
 	],
 	"../components/splash-screen/layout-3/splash-screen-layout-3.module": [
-		608,
+		606,
 		66
 	],
 	"../components/sub-image-gallery/sub-image-gallery.module": [
@@ -312,27 +312,27 @@ var map = {
 		65
 	],
 	"../components/tabs/layout-1/tabs-layout-1.module": [
-		609,
+		607,
 		64
 	],
 	"../components/tabs/layout-2/tabs-layout-2.module": [
-		610,
+		608,
 		63
 	],
 	"../components/tabs/layout-3/tabs-layout-3.module": [
-		611,
+		609,
 		62
 	],
 	"../components/toggle/layout-1/toggle-layout-1.module": [
-		612,
+		610,
 		61
 	],
 	"../components/toggle/layout-2/toggle-layout-2.module": [
-		613,
+		611,
 		60
 	],
 	"../components/toggle/layout-3/toggle-layout-3.module": [
-		614,
+		612,
 		59
 	],
 	"../components/wizard/layout-1/wizard-layout-1.module": [
@@ -340,11 +340,11 @@ var map = {
 		58
 	],
 	"../components/wizard/layout-2/wizard-layout-2.module": [
-		616,
+		613,
 		57
 	],
 	"../components/wizard/layout-3/wizard-layout-3.module": [
-		615,
+		614,
 		56
 	],
 	"../pages/home/home.module": [
@@ -651,12 +651,10 @@ var AppModule = (function () {
                 __WEBPACK_IMPORTED_MODULE_3__angular_http__["b" /* HttpModule */],
                 __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* IonicModule */].forRoot(__WEBPACK_IMPORTED_MODULE_4__app_component__["a" /* MyApp */], {}, {
                     links: [
-                        { loadChildren: '../components/action-sheet/layout-1/action-sheet-layout-1.module#ActionSheetLayout1Module', name: 'ActionSheetLayout1', segment: 'action-sheet-layout-1', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../components/action-sheet/layout-3/action-sheet-layout-3.module#ActionSheetLayout3Module', name: 'ActionSheetLayout3', segment: 'action-sheet-layout-3', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/action-sheet/layout-2/action-sheet-layout-2.module#ActionSheetLayout2Module', name: 'ActionSheetLayout2', segment: 'action-sheet-layout-2', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../components/action-sheet/layout-3/action-sheet-layout-3.module#ActionSheetLayout3Module', name: 'ActionSheetLayout3', segment: 'action-sheet-layout-3', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/check-box/layout-1/check-box-layout-1.module#CheckBoxLayout1Module', name: 'CheckBoxLayout1', segment: 'check-box-layout-1', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/check-box/layout-2/check-box-layout-2.module#CheckBoxLayout2Module', name: 'CheckBoxLayout2', segment: 'check-box-layout-2', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../components/check-box/layout-3/check-box-layout-3.module#CheckBoxLayout3Module', name: 'CheckBoxLayout3', segment: 'check-box-layout-3', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/full-screen-gallery/full-screen-gallery.module#FullScreenGalleryModule', name: 'FullScreenGallery', segment: 'full-screen-gallery', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/image-gallery/layout-1/image-gallery-layout-1.module#ImageGalleryLayout1Module', name: 'ImageGalleryLayout1', segment: 'image-gallery-layout-1', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/image-gallery/layout-2/image-gallery-layout-2.module#ImageGalleryLayout2Module', name: 'ImageGalleryLayout2', segment: 'image-gallery-layout-2', priority: 'low', defaultHistory: [] },
@@ -665,20 +663,20 @@ var AppModule = (function () {
                         { loadChildren: '../components/list-view/appearance-animation/layout-3/appearance-animation-layout-3.module#AppearanceAnimationLayout3Module', name: 'AppearanceAnimationLayout3', segment: 'appearance-animation-layout-3', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/list-view/appearance-animation/layout-4/appearance-animation-layout-4.module#AppearanceAnimationLayout4Module', name: 'AppearanceAnimationLayout4', segment: 'appearance-animation-layout-4', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/list-view/appearance-animation/layout-5/appearance-animation-layout-5.module#AppearanceAnimationLayout5Module', name: 'AppearanceAnimationLayout5', segment: 'appearance-animation-layout-5', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../components/list-view/drag-and-drop/layout-2/drag-and-drop-layout-2.module#DragAndDropLayout2Module', name: 'DragAndDropLayout2', segment: 'drag-and-drop-layout-2', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/list-view/drag-and-drop/layout-1/drag-and-drop-layout-1.module#DragAndDropLayout1Module', name: 'DragAndDropLayout1', segment: 'drag-and-drop-layout-1', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../components/list-view/drag-and-drop/layout-2/drag-and-drop-layout-2.module#DragAndDropLayout2Module', name: 'DragAndDropLayout2', segment: 'drag-and-drop-layout-2', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/list-view/drag-and-drop/layout-3/drag-and-drop-layout-3.module#DragAndDropLayout3Module', name: 'DragAndDropLayout3', segment: 'drag-and-drop-layout-3', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/list-view/expandable/layout-1/expandable-layout-1.module#ExpandableLayout1Module', name: 'ExpandableLayout1', segment: 'expandable-layout-1', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/list-view/expandable/layout-2/expandable-layout-2.module#ExpandableLayout2Module', name: 'ExpandableLayout2', segment: 'expandable-layout-2', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/list-view/expandable/layout-3/expandable-layout-3.module#ExpandableLayout3Module', name: 'ExpandableLayout3', segment: 'expandable-layout-3', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/list-view/google-card/layout-1/google-card-layout-1.module#GoogleCardLayout1Module', name: 'GoogleCardLayout1', segment: 'google-card-layout-1', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../components/list-view/google-card/layout-3/google-card-layout-3.module#GoogleCardLayout3Module', name: 'GoogleCardLayout3', segment: 'google-card-layout-3', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/list-view/google-card/layout-2/google-card-layout-2.module#GoogleCardLayout2Module', name: 'GoogleCardLayout2', segment: 'google-card-layout-2', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../components/list-view/google-card/layout-3/google-card-layout-3.module#GoogleCardLayout3Module', name: 'GoogleCardLayout3', segment: 'google-card-layout-3', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/list-view/sticky-list-header/layout-1/sticky-list-header-layout-1.module#StickyListHeaderLayout1Module', name: 'StickyListHeaderLayout1', segment: 'sticky-list-header-layout-1', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/list-view/sticky-list-header/layout-2/sticky-list-header-layout-2.module#StickyListHeaderLayout2Module', name: 'StickyListHeaderLayout2', segment: 'sticky-list-header-layout-2', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/list-view/sticky-list-header/layout-3/sticky-list-header-layout-3.module#StickyListHeaderLayout3Module', name: 'StickyListHeaderLayout3', segment: 'sticky-list-header-layout-3', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../components/list-view/swipe-to-dismiss/layout-2/swipe-to-dismiss-layout-2.module#SwipeToDismissLayout2Module', name: 'SwipeToDismissLayout2', segment: 'swipe-to-dismiss-layout-2', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/list-view/swipe-to-dismiss/layout-1/swipe-to-dismiss-layout-1.module#SwipeToDismissLayout1Module', name: 'SwipeToDismissLayout1', segment: 'swipe-to-dismiss-layout-1', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../components/list-view/swipe-to-dismiss/layout-2/swipe-to-dismiss-layout-2.module#SwipeToDismissLayout2Module', name: 'SwipeToDismissLayout2', segment: 'swipe-to-dismiss-layout-2', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/list-view/swipe-to-dismiss/layout-3/swipe-to-dismiss-layout-3.module#SwipeToDismissLayout3Module', name: 'SwipeToDismissLayout3', segment: 'swipe-to-dismiss-layout-3', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/login/layout-1/login-layout-1.module#LoginLayout1Module', name: 'LoginLayout1', segment: 'login-layout-1', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/login/layout-2/login-layout-2.module#LoginLayout2Module', name: 'LoginLayout2', segment: 'login-layout-2', priority: 'low', defaultHistory: [] },
@@ -702,11 +700,11 @@ var AppModule = (function () {
                         { loadChildren: '../components/search-bar/layout-1/search-bar-layout-1.module#SearchBarLayout1Module', name: 'SearchBarLayout1', segment: 'search-bar-layout-1', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/search-bar/layout-2/search-bar-layout-2.module#SearchBarLayout2Module', name: 'SearchBarLayout2', segment: 'search-bar-layout-2', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/search-bar/layout-3/search-bar-layout-3.module#SearchBarLayout3Module', name: 'SearchBarLayout3', segment: 'search-bar-layout-3', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../components/select/layout-2/select-layout-2.module#SelectLayout2Module', name: 'SelectLayout2', segment: 'select-layout-2', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/select/layout-1/select-layout-1.module#SelectLayout1Module', name: 'SelectLayout1', segment: 'select-layout-1', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../components/select/layout-2/select-layout-2.module#SelectLayout2Module', name: 'SelectLayout2', segment: 'select-layout-2', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/select/layout-3/select-layout-3.module#SelectLayout3Module', name: 'SelectLayout3', segment: 'select-layout-3', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../components/select/layout-5/select-layout-5.module#SelectLayout5Module', name: 'SelectLayout5', segment: 'select-layout-5', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/select/layout-4/select-layout-4.module#SelectLayout4Module', name: 'SelectLayout4', segment: 'select-layout-4', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../components/select/layout-5/select-layout-5.module#SelectLayout5Module', name: 'SelectLayout5', segment: 'select-layout-5', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/select/layout-6/select-layout-6.module#SelectLayout6Module', name: 'SelectLayout6', segment: 'select-layout-6', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/spinner/spinner.module#SpinnerModule', name: 'Spinner', segment: 'spinner', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/splash-screen/layout-1/splash-screen-layout-1.module#SplashScreenLayout1Module', name: 'SplashScreenLayout1', segment: 'splash-screen-layout-1', priority: 'low', defaultHistory: [] },
@@ -720,8 +718,8 @@ var AppModule = (function () {
                         { loadChildren: '../components/toggle/layout-2/toggle-layout-2.module#ToggleLayout2Module', name: 'ToggleLayout2', segment: 'toggle-layout-2', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/toggle/layout-3/toggle-layout-3.module#ToggleLayout3Module', name: 'ToggleLayout3', segment: 'toggle-layout-3', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/wizard/layout-1/wizard-layout-1.module#WizardLayout1Module', name: 'WizardLayout1', segment: 'wizard-layout-1', priority: 'low', defaultHistory: [] },
-                        { loadChildren: '../components/wizard/layout-3/wizard-layout-3.module#WizardLayout3Module', name: 'WizardLayout3', segment: 'wizard-layout-3', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../components/wizard/layout-2/wizard-layout-2.module#WizardLayout2Module', name: 'WizardLayout2', segment: 'wizard-layout-2', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../components/wizard/layout-3/wizard-layout-3.module#WizardLayout3Module', name: 'WizardLayout3', segment: 'wizard-layout-3', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/home/home.module#HomePageModule', name: 'HomePage', segment: 'home', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/intro-page/intro-page.module#IntroPageModule', name: 'IntroPage', segment: 'intro-page', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/item-details-action-sheet/item-details-action-sheet.module#ItemDetailsPageActionSheetModule', name: 'ItemDetailsPageActionSheet', segment: 'item-details-action-sheet', priority: 'low', defaultHistory: [] },
@@ -765,6 +763,8 @@ var AppModule = (function () {
                         { loadChildren: '../pages/tab-page-7/tab-page-7.module#TabPage7Module', name: 'TabPage7', segment: 'tab-page-7', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/tab-page-8/tab-page-8.module#TabPage8Module', name: 'TabPage8', segment: 'tab-page-8', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/tab-page-9/tab-page-9.module#TabPage9Module', name: 'TabPage9', segment: 'tab-page-9', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../components/action-sheet/layout-1/action-sheet-layout-1.module#ActionSheetLayout1Module', name: 'ActionSheetLayout1', segment: 'action-sheet-layout-1', priority: 'low', defaultHistory: [] },
+                        { loadChildren: '../components/check-box/layout-3/check-box-layout-3.module#CheckBoxLayout3Module', name: 'CheckBoxLayout3', segment: 'check-box-layout-3', priority: 'low', defaultHistory: [] },
                         { loadChildren: '../pages/items/items.module#ItemsPageModule', name: 'ItemsPage', segment: 'items', priority: 'low', defaultHistory: [] }
                     ]
                 }),

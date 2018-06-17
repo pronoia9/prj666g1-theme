@@ -1,6 +1,6 @@
 webpackJsonp([18,76,77,78],{
 
-/***/ 596:
+/***/ 594:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -8,7 +8,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "SearchBarLayout1Module", function() { return SearchBarLayout1Module; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__search_bar_layout_1__ = __webpack_require__(847);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__search_bar_layout_1__ = __webpack_require__(845);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -42,7 +42,7 @@ var SearchBarLayout1Module = (function () {
 
 /***/ }),
 
-/***/ 597:
+/***/ 595:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -50,7 +50,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "SearchBarLayout2Module", function() { return SearchBarLayout2Module; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__search_bar_layout_2__ = __webpack_require__(848);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__search_bar_layout_2__ = __webpack_require__(846);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -84,7 +84,7 @@ var SearchBarLayout2Module = (function () {
 
 /***/ }),
 
-/***/ 598:
+/***/ 596:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -92,7 +92,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "SearchBarLayout3Module", function() { return SearchBarLayout3Module; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__search_bar_layout_3__ = __webpack_require__(849);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__search_bar_layout_3__ = __webpack_require__(847);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -135,9 +135,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__item_details_search_bar__ = __webpack_require__(887);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_search_bar_layout_1_search_bar_layout_1_module__ = __webpack_require__(596);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_search_bar_layout_2_search_bar_layout_2_module__ = __webpack_require__(597);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_search_bar_layout_3_search_bar_layout_3_module__ = __webpack_require__(598);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_search_bar_layout_1_search_bar_layout_1_module__ = __webpack_require__(594);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_search_bar_layout_2_search_bar_layout_2_module__ = __webpack_require__(595);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_search_bar_layout_3_search_bar_layout_3_module__ = __webpack_require__(596);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -172,7 +172,7 @@ var ItemDetailsPageSearchBarModule = (function () {
 
 /***/ }),
 
-/***/ 847:
+/***/ 845:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -234,7 +234,7 @@ var SearchBarLayout1 = (function () {
 
 /***/ }),
 
-/***/ 848:
+/***/ 846:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -296,7 +296,7 @@ var SearchBarLayout2 = (function () {
 
 /***/ }),
 
-/***/ 849:
+/***/ 847:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";

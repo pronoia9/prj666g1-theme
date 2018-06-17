@@ -1,6 +1,6 @@
 webpackJsonp([12,81,82,83,84],{
 
-/***/ 590:
+/***/ 588:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -8,7 +8,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "RangeLayout1Module", function() { return RangeLayout1Module; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__range_layout_1__ = __webpack_require__(841);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__range_layout_1__ = __webpack_require__(839);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -42,7 +42,7 @@ var RangeLayout1Module = (function () {
 
 /***/ }),
 
-/***/ 591:
+/***/ 589:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -50,7 +50,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "RangeLayout2Module", function() { return RangeLayout2Module; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__range_layout_2__ = __webpack_require__(842);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__range_layout_2__ = __webpack_require__(840);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -84,7 +84,7 @@ var RangeLayout2Module = (function () {
 
 /***/ }),
 
-/***/ 592:
+/***/ 590:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -92,7 +92,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "RangeLayout3Module", function() { return RangeLayout3Module; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__range_layout_3__ = __webpack_require__(843);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__range_layout_3__ = __webpack_require__(841);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -126,7 +126,7 @@ var RangeLayout3Module = (function () {
 
 /***/ }),
 
-/***/ 593:
+/***/ 591:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -134,7 +134,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "RangeLayout4Module", function() { return RangeLayout4Module; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__range_layout_4__ = __webpack_require__(844);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__range_layout_4__ = __webpack_require__(842);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -177,10 +177,10 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__item_details_range__ = __webpack_require__(885);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_range_layout_1_range_layout_1_module__ = __webpack_require__(590);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_range_layout_2_range_layout_2_module__ = __webpack_require__(591);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_range_layout_3_range_layout_3_module__ = __webpack_require__(592);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__components_range_layout_4_range_layout_4_module__ = __webpack_require__(593);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_range_layout_1_range_layout_1_module__ = __webpack_require__(588);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_range_layout_2_range_layout_2_module__ = __webpack_require__(589);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_range_layout_3_range_layout_3_module__ = __webpack_require__(590);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__components_range_layout_4_range_layout_4_module__ = __webpack_require__(591);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -216,7 +216,7 @@ var ItemDetailsPageRangeModule = (function () {
 
 /***/ }),
 
-/***/ 841:
+/***/ 839:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -265,7 +265,7 @@ var RangeLayout1 = (function () {
 
 /***/ }),
 
-/***/ 842:
+/***/ 840:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -315,7 +315,7 @@ var RangeLayout2 = (function () {
 
 /***/ }),
 
-/***/ 843:
+/***/ 841:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -364,7 +364,7 @@ var RangeLayout3 = (function () {
 
 /***/ }),
 
-/***/ 844:
+/***/ 842:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";

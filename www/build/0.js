@@ -1,6 +1,6 @@
 webpackJsonp([0,1,2,3],{
 
-/***/ 571:
+/***/ 569:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -8,7 +8,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "StickyListHeaderLayout1Module", function() { return StickyListHeaderLayout1Module; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__sticky_list_header_layout_1__ = __webpack_require__(822);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__sticky_list_header_layout_1__ = __webpack_require__(820);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_ion_affix__ = __webpack_require__(700);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -45,7 +45,7 @@ var StickyListHeaderLayout1Module = (function () {
 
 /***/ }),
 
-/***/ 572:
+/***/ 570:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -53,7 +53,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "StickyListHeaderLayout2Module", function() { return StickyListHeaderLayout2Module; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__sticky_list_header_layout_2__ = __webpack_require__(823);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__sticky_list_header_layout_2__ = __webpack_require__(821);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_ion_affix__ = __webpack_require__(700);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -90,7 +90,7 @@ var StickyListHeaderLayout2Module = (function () {
 
 /***/ }),
 
-/***/ 573:
+/***/ 571:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -98,7 +98,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "StickyListHeaderLayout3Module", function() { return StickyListHeaderLayout3Module; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__sticky_list_header_layout_3__ = __webpack_require__(824);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__sticky_list_header_layout_3__ = __webpack_require__(822);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_ion_affix__ = __webpack_require__(700);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -144,9 +144,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(79);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__item_details_sticky_list_header__ = __webpack_require__(891);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_list_view_sticky_list_header_layout_1_sticky_list_header_layout_1_module__ = __webpack_require__(571);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_list_view_sticky_list_header_layout_2_sticky_list_header_layout_2_module__ = __webpack_require__(572);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_list_view_sticky_list_header_layout_3_sticky_list_header_layout_3_module__ = __webpack_require__(573);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_list_view_sticky_list_header_layout_1_sticky_list_header_layout_1_module__ = __webpack_require__(569);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_list_view_sticky_list_header_layout_2_sticky_list_header_layout_2_module__ = __webpack_require__(570);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_list_view_sticky_list_header_layout_3_sticky_list_header_layout_3_module__ = __webpack_require__(571);
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -10128,7 +10128,7 @@ exports.zipAll = zipAll;
 
 /***/ }),
 
-/***/ 822:
+/***/ 820:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -10186,7 +10186,7 @@ var StickyListHeaderLayout1 = (function () {
 
 /***/ }),
 
-/***/ 823:
+/***/ 821:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -10244,7 +10244,7 @@ var StickyListHeaderLayout2 = (function () {
 
 /***/ }),
 
-/***/ 824:
+/***/ 822:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
